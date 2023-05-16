@@ -4,5 +4,5 @@ A 3D game created by a team of 5 for a group project in university using Java an
 ## Download
 Unfortunately the game is not in an executable format. You must have JDK installed as well as the Java Extension Pack in Visual Studio Code. Once you have these prerequisites, simply download the entire repository and open the `code-workspace` file in VS Code and hit the play button.
 
-![Preview]([https://myoctocat.com/assets/images/base-octocat.svg](https://media.discordapp.net/attachments/964291773658706000/1091462845687939302/image.png?width=1302&height=664))
+![Preview](https://imgur.com/a/dJV2xGc)
 
