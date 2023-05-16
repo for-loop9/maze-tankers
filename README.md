@@ -4,5 +4,5 @@ A 3D game created by a team of 5 for a group project in university using Java an
 ## Download
 Unfortunately the game is not in an executable format. You must have JDK installed as well as the Java Extension Pack in Visual Studio Code. Once you have these prerequisites, simply download the entire repository and open the `code-workspace` file in VS Code and hit the play button.
 
-![Preview](https://github.com/for-loop9/maze-tankers/image.jpg?raw=true)
+![](https://github.com/for-loop9/maze-tankers/blob/master/image.png?raw=true)
 
